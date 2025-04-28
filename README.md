@@ -57,7 +57,7 @@ It enables **parallel partial product generation**, reducing computation time an
 
 ## Netlist
 
-The complete project netlist is provided in the [`CMOS_FINAL.cir`](path/to/CMOS_FINAL.cir) file.
+The complete project netlist is provided in the [`CMOS_FINAL.CIR`](/CMOS_FINAL.CIR) file.
 
 Here’s a snippet of the NGSpice netlist used for simulation:
 
