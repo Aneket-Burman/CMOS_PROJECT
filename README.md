@@ -29,7 +29,7 @@ It enables **parallel partial product generation**, reducing computation time an
 ## Block Diagram
 
 <!-- Insert Block Diagram Image here -->
-![Block Diagram](path/to/block_diagram.png)
+![Block Diagram](IMAGES/BLOCK_DIAGRAM.png)
 
 ---
 
@@ -50,8 +50,7 @@ It enables **parallel partial product generation**, reducing computation time an
 ## MicroWind Layouts
 
 <!-- Insert Layout Images here -->
-![Microwind Layout 1](path/to/microwind_layout1.png)
-![Microwind Layout 2](path/to/microwind_layout2.png)
+![Microwind Layout 1](IMAGES/MICROWIND_LAYOUT.png)
 
 ---
 
